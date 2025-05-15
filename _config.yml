@@ -1,0 +1,6 @@
+title: MoneyFinder
+description: >- 
+  Helping you track and find money that’s yours.
+baseurl: "" # leave blank unless using subpath
+url: "https://bjohnson777.github.io" # your GitHub Pages URL
+theme: minima
